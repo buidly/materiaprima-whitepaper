@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Materia Prima Wiki',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -67,32 +67,33 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.jpg',
+          href: 'https://wiki.materiaprimanft.com/'
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Home',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          /*{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          },*/
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Game',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Play Materia Prima',
+                href: 'https://play.materiaprimanft.com/',
               },
             ],
           },
@@ -100,24 +101,26 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Website',
+                href: 'https://materiaprimanft.com/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/MateriaPrimaRPG',
               },
+              {
+                label: 'Discord',
+                href: 'https://discord.gg/kXRKwJvSvg',
+              },
+              
             ],
           },
+         /*
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Blog1',
                 to: '/blog',
               },
               {
@@ -125,9 +128,9 @@ const config = {
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
-          },
+          },*/
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Materia Prima`,
       },
       prism: {
         theme: lightCodeTheme,
