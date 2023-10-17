@@ -5,16 +5,16 @@ Every Alchemist is able to create smaller or larger helpers through of transmuta
 They are called Homunculi.
 There are dozens of different types of Homunculi. 
 
-<img src="/img/H_Branos.png" width="200" />
-<img src="/img/H_Avilux.png" width="200" />
-<img src="/img/H_Welfis.png" width="200" />
+<img src={require('@site/static/img/H_Branos.png').default} alt="Branos" width="200"/>
+<img src={require('@site/static/img/H_Avilux.png').default} alt="Avilux" width="200"/>
+<img src={require('@site/static/img/H_Welfis.png').default} alt="Welfis" width="200"/>
 
 But there are not only different types but also each and every one is unique for itself through different traits. 
 
-<img src="/img/Limmex 01.png" width="200" />
-<img src="/img/Limmex 02.png" width="200" />
-<img src="/img/Limmex 03.png" width="200" />
-<img src="/img/Limmex 04.png" width="200" />
+<img src={require('@site/static/img/Limmex 01.png').default} alt="Limmex 01" width="200"/>
+<img src={require('@site/static/img/Limmex 02.png').default} alt="Limmex 02" width="200"/>
+<img src={require('@site/static/img/Limmex 03.png').default} alt="Limmex 03" width="200"/>
+<img src={require('@site/static/img/Limmex 04.png').default} alt="Limmex 04" width="200"/>
 
 Each and every single one is deliberately designed and drawn with pen on paper before they are digitally remastered to become a NFT. 
 

@@ -15,7 +15,8 @@ More locations will be added with the coming releases.
 
 
 
-<img src="/img/Tristigis.jpg" width="500" />
+<img src={require('@site/static/img/Tristigis.jpg').default} alt="Tristigis" width="500"/>
+
 
 
 

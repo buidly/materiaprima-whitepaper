@@ -28,3 +28,18 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Increase spacing between categories in the sidebar 
+.docSidebarContainer .menu__list .menu__list-item + .menu__list-item {
+  margin-top: 10000rem; /* Adjust this value to your preference 
+}
+
+/* Custom sidebar spacing 
+.navGroup .navGroup .navListItem:nth-of-type(1) {
+  margin-top: 100rem;  /* Adjust as needed 
+}
+
+.navGroup + .navGroup {
+  margin-top: 100rem;  /* Adjust as needed 
+}
+*/

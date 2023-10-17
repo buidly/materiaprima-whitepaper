@@ -5,7 +5,8 @@ In the Alchemist‘s world, everything revolves around the transmutation of thin
 For everything that they create, they need element gems. 
 
 There are 12 different type of elements. 
-<img src="/img/elements.png" width="500" />
+
+<img src={require('@site/static/img/elements.png').default} alt="Elements" width="500"/>
 
 
 
@@ -18,7 +19,6 @@ The following plan shows all elements and their relationship with each other.
 For example, to create a Tier 2 element you need two Tier 1 elements. The diagram shows how the
 different elements can be created.
 
-<img src="/img/mix_table.png" width="500" />
-
+<img src={require('@site/static/img/mix_table.png').default} alt="Mix Table" width="500"/>
 
 

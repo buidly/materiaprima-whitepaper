@@ -12,7 +12,9 @@ The Arena of Tristigis is a place where players can use their Homunculi for batt
 In the first version of the arena there are only PvE battles against other Homunculi available. 
 As the game development progresses this will be expended to PvP fights. 
 
-<img src="/img/Arena_fight.png" width="500" />
+
+<img src={require('@site/static/img/Arena_fight.png').default} alt="Arena Fight" width="500"/>
+
 
 
 

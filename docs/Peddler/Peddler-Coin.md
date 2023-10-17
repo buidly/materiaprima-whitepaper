@@ -7,7 +7,7 @@ Peddler hands them out to those who prove their dedication to the game. By parti
 
 This system ensures a fair access to Materia Prima whitelist and encourages community interaction — making Materia Prima not just a game but a growing, engaging society.
 
-<img src="/img/Peddler_Coin.jpg" width="500" />
+<img src={require('@site/static/img/Peddler_Coin.jpg').default} alt="Peddler Coin" width="500"/>
 
 
 
