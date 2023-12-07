@@ -1,9 +1,10 @@
 # 🪙 Peddler Coin
-## Earning Peddler Coin
+## Earning Peddler Coins
 
 You cannot purchase Peddler Coins. They are earned.
 
-Peddler hands them out to those who prove their dedication to the game. By participating actively in the community, providing valuable feedback, and engaging in various activities, you enhance your chances of being rewarded with Peddler Coins. We will regularly reward your interaction with our Twitter account with Peddler Coins.
+Peddler hands them out to those who prove their dedication to the game. By participating actively in the community, providing valuable feedback, and engaging in various activities, you increase your chances of being rewarded with Peddler Coins. 
+We will regularly reward your interaction with our Twitter account with Peddler Coins.
 
 This system ensures a fair access to Materia Prima whitelist and encourages community interaction — making Materia Prima not just a game but a growing, engaging society.
 

@@ -33,17 +33,68 @@ const sidebars = {
 module.exports = sidebars; */
 
 module.exports = {
-  tutorialSidebar: [
+  tutorialSidebar: [ 
     {
-      type: 'category',
-      label: '🏟️ Arena',
-      items: ['Arena/About', 'Arena/Fight-System'],
+      type: 'html',
+      value: 'Starting Guide', // Replace with appropriate HTML for your headline
+      defaultStyle: true,
     },
+    {
+      type: 'doc',
+      id: "Overview/Overview",
+      label: '⭐Materia Prima Overview',
+    },
+    {
+      type: 'doc',
+      id: "How/Start",
+      label: '📘 Starting Guide',
+    },
+    {
+      type: 'html',
+      value: '<br>Fundamentals', // Replace with appropriate HTML for your headline
+      defaultStyle: true,
+    },
+    
     {
       type: 'category',
       label: '💎 Element Gems',
-      items: ['Element Gems/Element-gems'],
+      items: ['Element Gems/Element-gems', 'Element Gems/Mixology', 'Element Gems/Element Dust', 'Element Gems/Raw Gems'],
     },
+    {
+      type: 'category',
+      label: '🐉 Homunculi',
+      items: ['Homunculi/Homunculi'],
+    },
+    {
+      type: 'category',
+      label: '🏟️ Arena',
+      items: ['Arena/About', 'Arena/Fight-System', 'Arena/Leaderboard'],
+    },
+  
+    {
+      type: 'doc',
+      id: "Boss/About",
+      label: '👾 Boss Fights',
+    },
+
+    {
+      type: 'category',
+      label: '🧭 Expeditions',
+      items: ['Expeditions/About', 'Expeditions/Gather_Run'],
+    },
+
+    {
+      type: 'category',
+      label: '🪨 Resources',
+      items: ['Resources/Element_Dust', 'Resources/Time_Sand', 'Resources/Runes' ],
+    },
+   
+    {
+      type: 'doc',
+      id: "Crafting/General",
+      label: '🔨 Crafting',
+    },
+
     {
       type: 'category',
       label: '👤 Peddler',
@@ -54,15 +105,55 @@ module.exports = {
       label: '🌐 World',
       items: ['World/Tristigis'],
     },
+    
     {
-      type: 'category',
-      label: '🐉 Homunculi',
-      items: ['Homunculi/Homunculi'],
+      type: 'html',
+      value: '<br>Background Information', // Replace with appropriate HTML for your headline
+      defaultStyle: true,
+    },
+    
+    {
+      type: 'doc',
+      id: "Team/Team",
+      label: '👥 Team',
+    },
+
+    {
+      type: 'doc',
+      id: "Artwork/Artwork",
+      label: '🖌️ Artwork',
     },
     {
       type: 'category',
       label: '📖 Lore',
       items: ['Lore/Lore'],
+    },
+   
+    {
+      type: 'html',
+      value: '<br>Roadmap', // Replace with appropriate HTML for your headline
+      defaultStyle: true,
+    },
+    {
+      type: 'doc',
+      id: "Roadmap/Roadmap",
+      label: '🗺️Roadmap',
+    },
+
+    {
+      type: 'doc',
+      id: "Log/Release_log",
+      label: '📈Release Log',
+    },
+    {
+      type: 'html',
+      value: '<br>Links', // Replace with appropriate HTML for your headline
+      defaultStyle: true,
+    },
+    {
+      type: 'category',
+      label: '🌐 Links',
+      items: ['Links/Links'],
     }
   ],
 };

@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/Defend.svg').default,
     description: (
       <>
-        Fight you battles in the arena of Tristigis
+        Fight battles in the arena of Tristigis
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/Super.svg').default,
     description: (
       <>
-       Research recipes and craft powerful Homunculi
+       Research recipes and craft powerful items
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/Punch.svg').default,
     description: (
       <>
-        Explore the continent Alka Sowa and become the most powerful alchemist.
+        Explore the continent Alka Sowa and become the most powerful alchemist
       </>
     ),
   },
