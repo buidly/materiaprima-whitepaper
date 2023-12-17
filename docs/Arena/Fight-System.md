@@ -16,8 +16,7 @@ Here's a breakdown of the various moves available to you in combat:
 
 
 
-Each move has its strengths and weaknesses, forming a complex web of possibilities. 
-A Super Attack can break through a Block but might be overkill against a resting opponent. Conversely, using Rest at the wrong time could leave you vulnerable to a devastating attacks.  
+Each move has its strengths and weaknesses, forming a complex web of possibilities. A Super Attack can break through a Block but might be overkill against a resting opponent. Conversely, using Rest at the wrong time could leave you vulnerable to a devastating attacks.
 The key to mastering the fight system in 'Materia Prima' lies in predicting your opponent's moves and choosing your actions wisely. Every battle is a unique puzzle, where your choices determine your path to victory.
 
 
@@ -39,7 +38,7 @@ The following table gives an overview of all available actions and their costs o
 
 In 'Materia Prima', combat involves a strategic choice of actions, each with unique effects on damage dealt. Understanding how these actions interact is crucial for effective gameplay. Below is a guide to how different actions deal damage to each other.
 
-### Actions and Their Damage Effects
+#### Actions and Their Damage Effects
 
 #### Punch
 - Versus Punch: 5 damage
@@ -103,6 +102,25 @@ The following table shows the damage dealt by each action against various defens
 | Super  |    25     |    25    |    25   |    25    |    15     |     5      |
 
 
+### Cooldown System
+
+In 'Materia Prima,' the Arena cooldown feature is designed to depend on the Level and XP (Experience Points) of your Homunculus.  
+This mechanic reflects the growing strength and abilities of the Homunculus as it gains experience and levels up.  
+Initially, when a Homunculus is at a lower level, the cooldown period for re-entering the Arena is 10 minutes. This allows newer or less experienced players to engage more frequently in Arena battles, facilitating faster learning and progression.
+
+As the Homunculus gains more experience and levels up, the cooldown period increases. This gradual increase in cooldown time corresponds to the enhanced skills and capabilities of a higher-level Homunculus. 
+
+The following table lists the cooldowns in relation to the XP the Homunculus holds:
+
+| Cumulative XP | Cooldown Time (min) |
+|---------------|:---------------------------------:|
+| 0             | 10                              |
+| 50            | 12                              |
+| 200           | 14                              |
+| 500           | 16                              |
+| 1000          | 18                              |
+| 1750          | 20                              |
+| 2500          | 22                              |
 
 
 [def]: img/Arena_fight.png

@@ -10,7 +10,7 @@ Documentation: https://wiki.materiaprimanft.com/
 
 
 ## Social Media
-Twitter: https://twitter.com/home
+X (Twitter): https://twitter.com/MateriaPrimaRPG
 
 Discord: https://discord.gg/kXRKwJvSvg 
 

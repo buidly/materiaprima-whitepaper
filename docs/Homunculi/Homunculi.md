@@ -37,7 +37,8 @@ Each and every single Homunculus is deliberately designed and drawn with pen on 
 
 
 ### Creation and Use
-Once a Homunculus has been created, the Homunculus can fulfill different tasks for his master. They are the alchemists' best helper. You can send you Homunculi to gather resources for you **[Gather Run](../Expeditions/Gather Run)** or command them in battle against your enemies (**[Arena](../Arena/About )** or  **[Boss Fights](../Boss/About)**).   
+Once a Homunculus has been created, the Homunculus can fulfill different tasks for his master. They are the alchemists' best helper. You can send you Homunculi to gather resources for you 
+(**[Gather Run](../Expeditions/Gather_Run)**) or command them in battle against your enemies (**[Arena](../Arena/About )** or  **[Boss Fights](../Boss/About)**).   
 They are central to the game's mechanics.
 
 

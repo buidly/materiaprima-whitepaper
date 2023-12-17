@@ -151,9 +151,9 @@ module.exports = {
       defaultStyle: true,
     },
     {
-      type: 'category',
+      type: 'doc',
+      id: "Links/Links",
       label: '🌐 Links',
-      items: ['Links/Links'],
     }
   ],
 };

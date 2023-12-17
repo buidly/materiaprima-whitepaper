@@ -1,5 +1,16 @@
 # 📈 Release Log
 
+
+#### V0.8.1 Arena Update 
+
+* Increased maximum XP to 2500
+* New XP dependent cooldown system
+* Balancing
+* Release date: 15.12.2023
+
+#### V0.8 Arena Update
+* Redesign of action selection screen in Arena
+
 #### V0.7 Additional Homunculi
 * Integrated first three Homunculi (Branos, Flies, Limmex) as NFT  
 * Upgraded first three Homunculi (Branos, Flies, Limmex) as NFT collection on MultiversX with 2500 individual NFTs for each Homunculi based on four different traits.  
